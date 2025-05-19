@@ -479,7 +479,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -988,7 +988,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1017,7 +1017,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -1392,7 +1392,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -1877,7 +1877,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2540,7 +2540,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (4)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -2916,7 +2916,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (3)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -3387,7 +3387,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -3671,7 +3671,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (9)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -3812,7 +3812,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3835,7 +3835,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (1)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -3910,7 +3910,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (3)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -3985,7 +3985,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (5)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -4131,7 +4131,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -4673,7 +4673,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (1)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -5041,7 +5041,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5064,7 +5064,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -5314,7 +5314,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5549,7 +5549,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (3)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -5900,7 +5900,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6208,7 +6208,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -6721,7 +6721,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7168,7 +7168,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -7597,7 +7597,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -8136,7 +8136,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8165,7 +8165,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -8606,7 +8606,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -9233,7 +9233,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (1)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -9314,7 +9314,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -9789,7 +9789,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10640,7 +10640,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (6)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -11066,7 +11066,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -11539,7 +11539,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11838,7 +11838,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11970,7 +11970,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (2)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -12156,7 +12156,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -12244,7 +12244,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (1)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -12807,7 +12807,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13046,7 +13046,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -13239,7 +13239,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (9)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -13314,7 +13314,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (1)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -13601,7 +13601,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -13783,7 +13783,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (7)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -13965,7 +13965,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (2)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -14905,7 +14905,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (8)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -15613,7 +15613,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (9)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -15799,7 +15799,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -16839,7 +16839,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (5)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -16914,7 +16914,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (8)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -18087,7 +18087,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (5)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -18269,7 +18269,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -18410,7 +18410,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18499,7 +18499,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18755,7 +18755,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (4)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -19783,7 +19783,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (2)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -20283,7 +20283,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20482,7 +20482,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -21433,7 +21433,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21561,7 +21561,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (7)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -21702,7 +21702,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22371,7 +22371,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -22602,7 +22602,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -22826,7 +22826,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24204,7 +24204,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -24298,7 +24298,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -24416,7 +24416,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (1)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -27188,7 +27188,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (8)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -27269,7 +27269,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -27904,7 +27904,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (6)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -28189,7 +28189,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (3)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -28369,7 +28369,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (3)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -28444,7 +28444,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (3)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -28767,7 +28767,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29000,7 +29000,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (8)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -29820,7 +29820,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -29895,7 +29895,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (8)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -30077,7 +30077,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (4)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -30257,7 +30257,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (5)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -30762,7 +30762,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (9)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -30942,7 +30942,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (8)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -31375,7 +31375,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (2)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -31450,7 +31450,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (6)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -31525,7 +31525,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (4)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -31600,7 +31600,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (2)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -31675,7 +31675,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -31816,7 +31816,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32019,7 +32019,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -32398,7 +32398,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -32556,7 +32556,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (6)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -32841,7 +32841,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (5)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -32916,7 +32916,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (7)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -33485,7 +33485,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33508,7 +33508,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_04A (9)
+      value: pepper_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c15aefee8d316984bbab583511ce8d1d, type: 3}
       propertyPath: m_LocalScale.x
@@ -33583,7 +33583,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (7)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -33724,7 +33724,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34169,7 +34169,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (4)
+      value: paprika_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -34310,7 +34310,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34504,7 +34504,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34875,7 +34875,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (4)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -35196,7 +35196,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (2)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -35847,7 +35847,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (7)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -36198,7 +36198,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36330,7 +36330,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_Name
-      value: TFP_Bush_Stub_01A (9)
+      value: pepper_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8b7dc3a082748dc4dbe5984effb1e43e, type: 3}
       propertyPath: m_LocalScale.x
@@ -37000,7 +37000,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -37059,7 +37059,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -37694,7 +37694,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -37848,7 +37848,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37980,7 +37980,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (6)
+      value: paprika_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -38308,7 +38308,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_02A (5)
+      value: pepper_empty_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7f4eaab99069c7b48a0f4f1caca9d630, type: 3}
       propertyPath: m_LocalScale.x
@@ -38900,7 +38900,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -39745,7 +39745,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -39967,7 +39967,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2
+      value: mogua_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40166,7 +40166,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: apple_rotten_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7300940986693458004, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
@@ -40219,7 +40219,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (7)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
@@ -40465,7 +40465,7 @@ PrefabInstance:
     - target: {fileID: 7300940986691520156, guid: 8d8739e967738f14e832a6dcba3f1771,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_01A_Stage_4
+      value: mogua_rotten_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40791,7 +40791,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -41026,7 +41026,7 @@ PrefabInstance:
     - target: {fileID: 7084276702487537885, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3C (10)
+      value: apple_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 7084276702488032509, guid: 28560165d6d267d458544ff8dec04ba3,
         type: 3}
@@ -41986,7 +41986,7 @@ PrefabInstance:
     - target: {fileID: 8891665386475806787, guid: a8aaaa0c85dc0274c8df969f35435e53,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_2 (1)
+      value: apple_empty_tree
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -42015,7 +42015,7 @@ PrefabInstance:
     - target: {fileID: 5005803224287572666, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
       propertyPath: m_Name
-      value: TFP_Orchard_Tree_03A_Stage_3A
+      value: mogua_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 5005803224287800986, guid: 8c2cc907b3d8afb4e814113d84986125,
         type: 3}
@@ -42400,7 +42400,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_Name
-      value: TFP_Pepper_Plant_03B (6)
+      value: paprika_full_tree
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 735ea8dc101a39c458effd024a3563ba, type: 3}
       propertyPath: m_LocalScale.x
