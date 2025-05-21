@@ -751,7 +751,7 @@ GameObject:
   - component: {fileID: 18606200}
   m_Layer: 0
   m_Name: ceiling1 (2)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7037,7 +7037,7 @@ GameObject:
   - component: {fileID: 325254090}
   m_Layer: 0
   m_Name: ceiling1
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11369,7 +11369,7 @@ GameObject:
   - component: {fileID: 524894423}
   m_Layer: 0
   m_Name: home
-  m_TagString: Untagged
+  m_TagString: home
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11924,7 +11924,7 @@ GameObject:
   - component: {fileID: 545839802}
   m_Layer: 0
   m_Name: ceiling1 (6)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12699,7 +12699,7 @@ GameObject:
   - component: {fileID: 573305747}
   m_Layer: 0
   m_Name: wall (1)
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16513,7 +16513,7 @@ GameObject:
   - component: {fileID: 779720521}
   m_Layer: 0
   m_Name: ceiling1 (1)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17167,7 +17167,7 @@ GameObject:
   - component: {fileID: 822730462}
   m_Layer: 0
   m_Name: wall (3)
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22529,7 +22529,7 @@ GameObject:
   - component: {fileID: 1115322721}
   m_Layer: 0
   m_Name: wall (2)
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23801,7 +23801,7 @@ GameObject:
   - component: {fileID: 1178760805}
   m_Layer: 0
   m_Name: wall
-  m_TagString: Untagged
+  m_TagString: wall
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27383,7 +27383,7 @@ GameObject:
   - component: {fileID: 1323053602}
   m_Layer: 0
   m_Name: ceiling1 (5)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27809,7 +27809,7 @@ GameObject:
   - component: {fileID: 1352123117}
   m_Layer: 0
   m_Name: ceiling1 (4)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37070,7 +37070,7 @@ GameObject:
   - component: {fileID: 1738584866}
   m_Layer: 0
   m_Name: ceiling1 (3)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41725,7 +41725,7 @@ GameObject:
   - component: {fileID: 2027547428}
   m_Layer: 0
   m_Name: ceiling1 (7)
-  m_TagString: Untagged
+  m_TagString: ceiling
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
