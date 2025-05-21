@@ -1964,6 +1964,7 @@ GameObject:
   - component: {fileID: 37722255}
   - component: {fileID: 37722254}
   - component: {fileID: 37722253}
+  - component: {fileID: 37722256}
   m_Layer: 0
   m_Name: mogua_tree_4
   m_TagString: tree
@@ -2061,6 +2062,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 37722251}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &37722256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37722251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &37728719
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2377,6 +2399,7 @@ GameObject:
   - component: {fileID: 57640888}
   - component: {fileID: 57640887}
   - component: {fileID: 57640886}
+  - component: {fileID: 57640889}
   m_Layer: 0
   m_Name: paprika_tree_4
   m_TagString: tree
@@ -2474,6 +2497,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 57640884}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &57640889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57640884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &57776682
 GameObject:
   m_ObjectHideFlags: 0
@@ -2487,6 +2531,7 @@ GameObject:
   - component: {fileID: 57776685}
   - component: {fileID: 57776684}
   - component: {fileID: 57776687}
+  - component: {fileID: 57776688}
   m_Layer: 0
   m_Name: apple_tree_5
   m_TagString: tree
@@ -2618,6 +2663,27 @@ MonoBehaviour:
   - {fileID: 2106138089}
   - {fileID: 2106138088}
   - {fileID: 2106138087}
+--- !u!114 &57776688
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57776682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &58520768
 GameObject:
   m_ObjectHideFlags: 0
@@ -2917,6 +2983,7 @@ GameObject:
   - component: {fileID: 79436294}
   - component: {fileID: 79436293}
   - component: {fileID: 79436292}
+  - component: {fileID: 79436295}
   m_Layer: 0
   m_Name: mogua_tree_9
   m_TagString: tree
@@ -3014,6 +3081,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 79436290}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &79436295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 79436290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &79989906
 GameObject:
   m_ObjectHideFlags: 0
@@ -3906,6 +3994,7 @@ GameObject:
   - component: {fileID: 125688756}
   - component: {fileID: 125688755}
   - component: {fileID: 125688754}
+  - component: {fileID: 125688757}
   m_Layer: 0
   m_Name: pepper_tree_6
   m_TagString: tree
@@ -4003,6 +4092,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 125688752}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &125688757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 125688752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &127135598
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5700,6 +5810,7 @@ GameObject:
   - component: {fileID: 215740124}
   - component: {fileID: 215740123}
   - component: {fileID: 215740122}
+  - component: {fileID: 215740125}
   m_Layer: 0
   m_Name: paprika_tree _1
   m_TagString: tree
@@ -5797,6 +5908,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 215740120}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &215740125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 215740120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &228371873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7030,6 +7162,7 @@ GameObject:
   - component: {fileID: 298058201}
   - component: {fileID: 298058200}
   - component: {fileID: 298058199}
+  - component: {fileID: 298058202}
   m_Layer: 0
   m_Name: pepper_tree_3
   m_TagString: tree
@@ -7127,6 +7260,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 298058197}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &298058202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 298058197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &301812846
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7735,6 +7889,7 @@ GameObject:
   - component: {fileID: 330011346}
   - component: {fileID: 330011345}
   - component: {fileID: 330011348}
+  - component: {fileID: 330011349}
   m_Layer: 0
   m_Name: apple_tree
   m_TagString: tree
@@ -7867,6 +8022,27 @@ MonoBehaviour:
   - {fileID: 544494485}
   - {fileID: 544494484}
   - {fileID: 544494483}
+--- !u!114 &330011349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330011343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &336354997
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7958,6 +8134,7 @@ GameObject:
   - component: {fileID: 337164096}
   - component: {fileID: 337164095}
   - component: {fileID: 337164094}
+  - component: {fileID: 337164097}
   m_Layer: 0
   m_Name: paprika_tree_9
   m_TagString: tree
@@ -8055,6 +8232,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 337164092}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &337164097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 337164092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &337953109
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10476,6 +10674,7 @@ GameObject:
   - component: {fileID: 441301403}
   - component: {fileID: 441301402}
   - component: {fileID: 441301401}
+  - component: {fileID: 441301404}
   m_Layer: 0
   m_Name: paprika_tree_5
   m_TagString: tree
@@ -10573,6 +10772,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 441301399}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &441301404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 441301399}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &445249661
 GameObject:
   m_ObjectHideFlags: 0
@@ -11303,6 +11523,7 @@ GameObject:
   - component: {fileID: 466241468}
   - component: {fileID: 466241472}
   - component: {fileID: 466241471}
+  - component: {fileID: 466241473}
   m_Layer: 0
   m_Name: apple_tree_3
   m_TagString: tree
@@ -11451,6 +11672,27 @@ MonoBehaviour:
   nameLabel: {fileID: 0}
   valueToggle: {fileID: 0}
   checkmarkImage: {fileID: 0}
+--- !u!114 &466241473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 466241466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &470453356
 GameObject:
   m_ObjectHideFlags: 0
@@ -12544,6 +12786,7 @@ GameObject:
   - component: {fileID: 536134828}
   - component: {fileID: 536134827}
   - component: {fileID: 536134826}
+  - component: {fileID: 536134829}
   m_Layer: 0
   m_Name: pepper_tree_9
   m_TagString: tree
@@ -12641,6 +12884,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 536134824}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &536134829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 536134824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!23 &537256388 stripped
 MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 7084276702489802263, guid: 28560165d6d267d458544ff8dec04ba3,
@@ -13234,6 +13498,7 @@ GameObject:
   - component: {fileID: 548800218}
   - component: {fileID: 548800217}
   - component: {fileID: 548800216}
+  - component: {fileID: 548800219}
   m_Layer: 0
   m_Name: mogua_tree_3
   m_TagString: tree
@@ -13331,6 +13596,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 548800214}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &548800219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 548800214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &549829443
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17521,6 +17807,7 @@ GameObject:
   - component: {fileID: 779505849}
   - component: {fileID: 779505848}
   - component: {fileID: 779505847}
+  - component: {fileID: 779505850}
   m_Layer: 0
   m_Name: paprika_tree_7
   m_TagString: tree
@@ -17618,6 +17905,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 779505845}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &779505850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 779505845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &779720519
 GameObject:
   m_ObjectHideFlags: 0
@@ -19216,6 +19524,7 @@ GameObject:
   - component: {fileID: 872979857}
   - component: {fileID: 872979856}
   - component: {fileID: 872979859}
+  - component: {fileID: 872979860}
   m_Layer: 0
   m_Name: apple_tree_4
   m_TagString: tree
@@ -19347,6 +19656,27 @@ MonoBehaviour:
   - {fileID: 1167234076}
   - {fileID: 1167234075}
   - {fileID: 1167234074}
+--- !u!114 &872979860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 872979854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!23 &888817067 stripped
 MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 7300940986693458010, guid: 8d8739e967738f14e832a6dcba3f1771,
@@ -19680,6 +20010,7 @@ GameObject:
   - component: {fileID: 906411536}
   - component: {fileID: 906411535}
   - component: {fileID: 906411534}
+  - component: {fileID: 906411537}
   m_Layer: 0
   m_Name: pepper_tree
   m_TagString: tree
@@ -19777,6 +20108,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906411532}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &906411537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 906411532}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &917224340
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20636,6 +20988,7 @@ GameObject:
   - component: {fileID: 956981132}
   - component: {fileID: 956981131}
   - component: {fileID: 956981134}
+  - component: {fileID: 956981135}
   m_Layer: 0
   m_Name: apple_tree_2
   m_TagString: tree
@@ -20767,6 +21120,27 @@ MonoBehaviour:
   - {fileID: 1560737908}
   - {fileID: 1560737907}
   - {fileID: 1560737906}
+--- !u!114 &956981135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 956981129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &964197477
 GameObject:
   m_ObjectHideFlags: 0
@@ -21958,6 +22332,7 @@ GameObject:
   - component: {fileID: 1014530093}
   - component: {fileID: 1014530092}
   - component: {fileID: 1014530091}
+  - component: {fileID: 1014530094}
   m_Layer: 0
   m_Name: mogua_tree_7
   m_TagString: tree
@@ -22055,6 +22430,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1014530089}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1014530094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014530089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1017080635
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22788,6 +23184,7 @@ GameObject:
   - component: {fileID: 1051384826}
   - component: {fileID: 1051384825}
   - component: {fileID: 1051384824}
+  - component: {fileID: 1051384827}
   m_Layer: 0
   m_Name: pepper_tree_4
   m_TagString: tree
@@ -22885,6 +23282,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051384822}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1051384827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051384822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1054298418
 GameObject:
   m_ObjectHideFlags: 0
@@ -24958,6 +25376,7 @@ GameObject:
   - component: {fileID: 1170310332}
   - component: {fileID: 1170310331}
   - component: {fileID: 1170310334}
+  - component: {fileID: 1170310335}
   m_Layer: 0
   m_Name: apple_tree_8
   m_TagString: tree
@@ -25089,6 +25508,27 @@ MonoBehaviour:
   - {fileID: 1686117981}
   - {fileID: 1686117980}
   - {fileID: 1686117979}
+--- !u!114 &1170310335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1170310329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1174632793
 GameObject:
   m_ObjectHideFlags: 0
@@ -25101,6 +25541,7 @@ GameObject:
   - component: {fileID: 1174632797}
   - component: {fileID: 1174632796}
   - component: {fileID: 1174632795}
+  - component: {fileID: 1174632798}
   m_Layer: 0
   m_Name: mogua_tree_5
   m_TagString: tree
@@ -25198,6 +25639,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1174632793}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1174632798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174632793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1176851856
 GameObject:
   m_ObjectHideFlags: 0
@@ -25632,6 +26094,7 @@ GameObject:
   - component: {fileID: 1190381046}
   - component: {fileID: 1190381045}
   - component: {fileID: 1190381044}
+  - component: {fileID: 1190381047}
   m_Layer: 0
   m_Name: paprika_tree_3
   m_TagString: tree
@@ -25729,6 +26192,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1190381042}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1190381047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190381042}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1193689455
 GameObject:
   m_ObjectHideFlags: 0
@@ -29041,6 +29525,7 @@ GameObject:
   - component: {fileID: 1338223571}
   - component: {fileID: 1338223570}
   - component: {fileID: 1338223573}
+  - component: {fileID: 1338223574}
   m_Layer: 0
   m_Name: apple_tree_7
   m_TagString: tree
@@ -29172,6 +29657,27 @@ MonoBehaviour:
   - {fileID: 548063193}
   - {fileID: 548063192}
   - {fileID: 548063191}
+--- !u!114 &1338223574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338223568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1340799464
 GameObject:
   m_ObjectHideFlags: 0
@@ -29939,6 +30445,7 @@ GameObject:
   - component: {fileID: 1377794976}
   - component: {fileID: 1377794975}
   - component: {fileID: 1377794974}
+  - component: {fileID: 1377794977}
   m_Layer: 0
   m_Name: paprika_tree_6
   m_TagString: tree
@@ -30036,6 +30543,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1377794972}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1377794977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1377794972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!23 &1378601428 stripped
 MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 8891665386477747845, guid: a8aaaa0c85dc0274c8df969f35435e53,
@@ -30166,6 +30694,7 @@ GameObject:
   - component: {fileID: 1396153092}
   - component: {fileID: 1396153091}
   - component: {fileID: 1396153094}
+  - component: {fileID: 1396153095}
   m_Layer: 0
   m_Name: apple_tree_1
   m_TagString: tree
@@ -30298,6 +30827,27 @@ MonoBehaviour:
   - {fileID: 1660432749}
   - {fileID: 1660432748}
   - {fileID: 1660432747}
+--- !u!114 &1396153095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396153089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1397538179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -31611,6 +32161,7 @@ GameObject:
   - component: {fileID: 1461610290}
   - component: {fileID: 1461610289}
   - component: {fileID: 1461610288}
+  - component: {fileID: 1461610291}
   m_Layer: 0
   m_Name: mogua_tree
   m_TagString: tree
@@ -31708,6 +32259,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1461610286}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1461610291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1461610286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1466279112
 GameObject:
   m_ObjectHideFlags: 0
@@ -32037,6 +32609,7 @@ GameObject:
   - component: {fileID: 1477966517}
   - component: {fileID: 1477966516}
   - component: {fileID: 1477966515}
+  - component: {fileID: 1477966518}
   m_Layer: 0
   m_Name: pepper_tree_8
   m_TagString: tree
@@ -32134,6 +32707,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1477966513}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1477966518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1477966513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1483221821
 GameObject:
   m_ObjectHideFlags: 0
@@ -32771,6 +33365,7 @@ GameObject:
   - component: {fileID: 1498576598}
   - component: {fileID: 1498576597}
   - component: {fileID: 1498576596}
+  - component: {fileID: 1498576599}
   m_Layer: 0
   m_Name: mogua_tree_1
   m_TagString: tree
@@ -32868,6 +33463,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1498576594}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1498576599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1498576594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1509212098
 GameObject:
   m_ObjectHideFlags: 0
@@ -32985,6 +33601,7 @@ GameObject:
   - component: {fileID: 1511839333}
   - component: {fileID: 1511839332}
   - component: {fileID: 1511839331}
+  - component: {fileID: 1511839334}
   m_Layer: 0
   m_Name: paprika_tree_2
   m_TagString: tree
@@ -33082,6 +33699,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1511839329}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1511839334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511839329}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1512494049
 GameObject:
   m_ObjectHideFlags: 0
@@ -33600,6 +34238,7 @@ GameObject:
   - component: {fileID: 1532304182}
   - component: {fileID: 1532304181}
   - component: {fileID: 1532304180}
+  - component: {fileID: 1532304183}
   m_Layer: 0
   m_Name: pepper_tree_5
   m_TagString: tree
@@ -33697,6 +34336,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532304178}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1532304183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532304178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1541593441
 GameObject:
   m_ObjectHideFlags: 0
@@ -33709,6 +34369,7 @@ GameObject:
   - component: {fileID: 1541593445}
   - component: {fileID: 1541593444}
   - component: {fileID: 1541593443}
+  - component: {fileID: 1541593446}
   m_Layer: 0
   m_Name: pepper_tree_7
   m_TagString: tree
@@ -33806,6 +34467,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1541593441}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1541593446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1541593441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1544297074
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34447,6 +35129,7 @@ GameObject:
   - component: {fileID: 1569557099}
   - component: {fileID: 1569557098}
   - component: {fileID: 1569557097}
+  - component: {fileID: 1569557100}
   m_Layer: 0
   m_Name: mogua_tree_2
   m_TagString: tree
@@ -34544,6 +35227,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1569557095}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1569557100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1569557095}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1572465169
 GameObject:
   m_ObjectHideFlags: 0
@@ -34962,6 +35666,7 @@ GameObject:
   - component: {fileID: 1587264326}
   - component: {fileID: 1587264325}
   - component: {fileID: 1587264324}
+  - component: {fileID: 1587264327}
   m_Layer: 0
   m_Name: pepper_tree_1
   m_TagString: tree
@@ -35059,6 +35764,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1587264322}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1587264327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1587264322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1590572388
 GameObject:
   m_ObjectHideFlags: 0
@@ -36027,6 +36753,7 @@ GameObject:
   - component: {fileID: 1631870846}
   - component: {fileID: 1631870845}
   - component: {fileID: 1631870844}
+  - component: {fileID: 1631870847}
   m_Layer: 0
   m_Name: mogua_tree_6
   m_TagString: tree
@@ -36124,6 +36851,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1631870842}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1631870847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1631870842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1636076448
 GameObject:
   m_ObjectHideFlags: 0
@@ -36136,6 +36884,7 @@ GameObject:
   - component: {fileID: 1636076452}
   - component: {fileID: 1636076451}
   - component: {fileID: 1636076450}
+  - component: {fileID: 1636076453}
   m_Layer: 0
   m_Name: paprika_tree_8
   m_TagString: tree
@@ -36233,6 +36982,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1636076448}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1636076453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636076448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1643939409
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39360,6 +40130,7 @@ GameObject:
   - component: {fileID: 1751040582}
   - component: {fileID: 1751040581}
   - component: {fileID: 1751040580}
+  - component: {fileID: 1751040583}
   m_Layer: 0
   m_Name: mogua_tree_8
   m_TagString: tree
@@ -39457,6 +40228,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1751040578}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1751040583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1751040578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1751330461
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40364,6 +41156,7 @@ GameObject:
   - component: {fileID: 1785921895}
   - component: {fileID: 1785921898}
   - component: {fileID: 1785921899}
+  - component: {fileID: 1785921900}
   m_Layer: 0
   m_Name: apple_tree_9
   m_TagString: tree
@@ -40497,6 +41290,27 @@ MonoBehaviour:
   - {fileID: 947153188}
   - {fileID: 1551114478}
 --- !u!114 &1785921899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1785921893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
+--- !u!114 &1785921900
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41125,6 +41939,7 @@ GameObject:
   - component: {fileID: 1821774415}
   - component: {fileID: 1821774414}
   - component: {fileID: 1821774417}
+  - component: {fileID: 1821774418}
   m_Layer: 0
   m_Name: apple_tree_6
   m_TagString: tree
@@ -41256,6 +42071,27 @@ MonoBehaviour:
   - {fileID: 7040844}
   - {fileID: 7040843}
   - {fileID: 7040842}
+--- !u!114 &1821774418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821774412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1001 &1827497363
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41870,6 +42706,7 @@ GameObject:
   - component: {fileID: 1872129101}
   - component: {fileID: 1872129100}
   - component: {fileID: 1872129099}
+  - component: {fileID: 1872129102}
   m_Layer: 0
   m_Name: pepper_tree_2
   m_TagString: tree
@@ -41967,6 +42804,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872129097}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1872129102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1872129097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1873021642
 GameObject:
   m_ObjectHideFlags: 0
@@ -42459,6 +43317,7 @@ GameObject:
   - component: {fileID: 1937151273}
   - component: {fileID: 1937151272}
   - component: {fileID: 1937151271}
+  - component: {fileID: 1937151274}
   m_Layer: 0
   m_Name: paprika_tree
   m_TagString: tree
@@ -42556,6 +43415,27 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1937151269}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1937151274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937151269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a6b46909e90ca4595836bdf8c25d4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  state: 0
+  HP: 0
+  resetHP: 50
+  hpIncreasePerStep: 1
+  maxHp: 100
+  pestDamageRate: 2
+  fruitStepCounter: 0
+  fruitTimeoutStep: 20
+  treeWitherHP: 20
 --- !u!1 &1939483425
 GameObject:
   m_ObjectHideFlags: 0
