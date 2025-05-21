@@ -4,6 +4,8 @@
     "com.unity.ide.rider": "3.0.34",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",
+    "com.unity.ml-agents": "file:D:/2025/capstone1/ml-agents-release_18/com.unity.ml-agents",
+    "com.unity.ml-agents.extensions": "file:D:/2025/capstone1/ml-agents-release_18/com.unity.ml-agents.extensions",
     "com.unity.render-pipelines.universal": "14.0.12",
     "com.unity.test-framework": "1.1.33",
     "com.unity.textmeshpro": "3.0.7",
