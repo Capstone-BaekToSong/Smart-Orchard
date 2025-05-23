@@ -37,7 +37,14 @@ public class RobotController : MonoBehaviour
     public void Drive()
     {
         // 직진/후진 힘 적용
-        rb.AddForce(transform.forward * acc * motorForce);
+        if (acc >= 0) // 후진보다 전진 움직임을 지향하도록 유도
+        {
+            rb.AddForce(transform.forward * acc * motorForce);
+        }
+        else
+        {
+            rb.AddForce(transform.forward * acc * motorForce / 3);
+        }
     }
 
     public void Steer()
